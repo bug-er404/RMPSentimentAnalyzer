@@ -1,0 +1,2 @@
+Magnitude: 42.5
+Score: 0.2
